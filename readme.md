@@ -1,4 +1,5 @@
-## Welcome to Git
+## Heyoo everyone, welcome to my git guide
 
--This is coming from dev-tai
+
+-Yo, Johnny here
 -I'm adding this from 'feature-branch'
